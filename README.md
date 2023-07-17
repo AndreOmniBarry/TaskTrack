@@ -1,4 +1,4 @@
-# Vite Vue Starter
+# TaskTrack
 
 This project is an app for keeping track with tasks
 
