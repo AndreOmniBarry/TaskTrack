@@ -35,7 +35,7 @@
           </div>
         </div>
         <div class="actions">
-          <button @click="toggleCompleted(task)">Mark {{ task.completed ? 'Incomplete' : 'Complete' }}</button>
+          <button @click="toggleCompleted(task)"> {{ task.completed ? 'Incomplete' : 'Complete' }}</button>
           <button @click="removeTask(index)">Remove</button>
         </div>
       </li>
